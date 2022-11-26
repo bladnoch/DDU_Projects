@@ -84,7 +84,6 @@ public class finalEx1 {
         System.out.println("-----------");
 
 //2-3
-
         Iterator<String> checker=keys2.iterator();
         System.out.println("-----------");
         System.out.println(("번호  몸무게  키"));
