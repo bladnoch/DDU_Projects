@@ -31,10 +31,11 @@ public class MyFrame extends JFrame {
             if (k == KeyEvent.VK_0 || k == KeyEvent.VK_1 || k == KeyEvent.VK_2 || k == KeyEvent.VK_3 || k == KeyEvent.VK_4 ||
                     k == KeyEvent.VK_5 || k == KeyEvent.VK_6 || k == KeyEvent.VK_7 || k == KeyEvent.VK_8 || k == KeyEvent.VK_9) {
                 txt.setForeground(new Color(r, g, b));
-                txt.setText();
+                txt.setFont(new Font("Bold",Font.BOLD,20));
             }
-            else{
-
+            else if(k==KeyEvent.VK_ENTER){
+                area.getText(txt);
+                txt.setText("");
             }
         }
     }
