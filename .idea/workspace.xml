@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e6436a-7f97-47ed-9bbf-015c0e64710b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch07/nFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/nOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/nThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/nTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/nThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/nTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch08/nOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08/nOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
