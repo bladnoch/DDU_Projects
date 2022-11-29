@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91e6436a-7f97-47ed-9bbf-015c0e64710b" name="Changes" comment="" />
+    <list default="true" id="91e6436a-7f97-47ed-9bbf-015c0e64710b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch07/nFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/nOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/nThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch07/nTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +42,12 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.adapter">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyFrame" />
       <module name="testQs" />
