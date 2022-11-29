@@ -38,7 +38,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.finalEx1">
+  <component name="RunManager">
     <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyFrame" />
       <module name="testQs" />
@@ -89,7 +89,7 @@
       <workItem from="1669481509636" duration="883000" />
       <workItem from="1669491744441" duration="2296000" />
       <workItem from="1669696292435" duration="491000" />
-      <workItem from="1669697140785" duration="176000" />
+      <workItem from="1669697140785" duration="8140000" />
     </task>
     <servers />
   </component>
