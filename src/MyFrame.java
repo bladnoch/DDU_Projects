@@ -34,7 +34,7 @@ public class MyFrame extends JFrame {
                 txt.setFont(new Font("Bold",Font.BOLD,20));
             }
             else if(k==KeyEvent.VK_ENTER){
-                area.getText(txt);
+                area.append(txt.getText()+"\n");
                 txt.setText("");
             }
         }
