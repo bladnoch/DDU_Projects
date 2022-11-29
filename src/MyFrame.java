@@ -9,7 +9,7 @@ public class MyFrame extends JFrame {
 
     public MyFrame() {
         Container c = getContentPane();
-        c.addKeyListener(new MyKey());
+        txt.addKeyListener(new MyKey());
         c.setLayout(new FlowLayout());
         c.add(txt);
         c.add(area);
@@ -31,6 +31,7 @@ public class MyFrame extends JFrame {
             if (k == KeyEvent.VK_0 || k == KeyEvent.VK_1 || k == KeyEvent.VK_2 || k == KeyEvent.VK_3 || k == KeyEvent.VK_4 ||
                     k == KeyEvent.VK_5 || k == KeyEvent.VK_6 || k == KeyEvent.VK_7 || k == KeyEvent.VK_8 || k == KeyEvent.VK_9) {
                 txt.setForeground(new Color(r, g, b));
+                txt.setText();
             }
             else{
 
