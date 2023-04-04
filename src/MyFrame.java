@@ -1,13 +1,16 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyAdapter;
+
 import java.awt.event.KeyEvent;
+
 
 public class MyFrame extends JFrame {
     public JTextField txt = new JTextField(10);
     public JTextArea area = new JTextArea(10, 10);
 
     public MyFrame() {
+
         Container c = getContentPane();
         txt.addKeyListener(new MyKey());
         c.setLayout(new FlowLayout());
