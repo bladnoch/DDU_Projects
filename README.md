@@ -5,6 +5,10 @@
     finalEx1.java
     MyFrame.java
 
-위치
+    /Users/[name]/Desktop/DDU/JAVA/testqs/testQs
 
-/Users/[name]/Desktop/DDU/JAVA/testqs/testQs
+파이써 과제
+
+    Spliter.py
+
+    /Users/[name]]/Desktop/DDU/JAVA/testqs/testQs/src/python/DDUPy/Spliter.py
