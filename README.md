@@ -1,4 +1,4 @@
-# DDU_java_final_exam
+# DDU_java_python
 
 자바 기말고사
 
