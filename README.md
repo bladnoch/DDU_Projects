@@ -1,4 +1,4 @@
-# DDU_java_python
+# DDU_Projects
 
 자바 기말고사
 
